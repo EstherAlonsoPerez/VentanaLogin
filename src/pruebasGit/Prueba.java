@@ -9,6 +9,7 @@ public class Prueba {
 		System.out.println("Cuarto cambio");
 		System.out.println("Quinto cambio");
 		System.out.println("Sexto cambio");
+		System.out.println("Septimo cambio");
 	}
 
 }
